@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/copiar_CURP"
+        android:title="Copiar CURP" />
+    <item android:id="@+id/guardar_CURP"
+        android:title="Guardar Datos" />
+
+</menu>

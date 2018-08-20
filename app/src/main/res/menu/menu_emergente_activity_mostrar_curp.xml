@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mostrar"
+        android:title="Mostrar en Pantalla Principal" />
+    <item android:id="@+id/copiar_curp"
+        android:title="Copiar Curp" />
+    <item android:id="@+id/copiar_rfc"
+        android:title="Copiar Rfc" />
+    <item android:id="@+id/eliminar"
+        android:title="Eliminar Datos" />
+
+</menu>
